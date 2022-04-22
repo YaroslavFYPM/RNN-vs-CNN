@@ -11,21 +11,21 @@
 
 ### CNN
 
-<img src="https://user-images.githubusercontent.com/77685420/164813999-ac0e9282-9a68-4ca5-a101-8d9d0d880818.png" width="760" height="480">
-<img src="https://user-images.githubusercontent.com/77685420/164814015-544dd15b-4f88-4c72-8b12-082bf9dff875.png" width="760" height="480">
+<img src="https://user-images.githubusercontent.com/77685420/164813999-ac0e9282-9a68-4ca5-a101-8d9d0d880818.png" width="560" height="360">
+<img src="https://user-images.githubusercontent.com/77685420/164814015-544dd15b-4f88-4c72-8b12-082bf9dff875.png" width="560" height="360">
 
 На графиках видно, что после пятой эпохи сеть начала переобучаться, поэтому для итоговых результатов были взяты результаты модели на пятой эпохе.
 
 
 ### LSTM
 
-<img src="https://user-images.githubusercontent.com/77685420/164814958-3ccc55fb-2333-4070-85fe-267ddcd9e842.png" width="760" height="480">
-<img src="https://user-images.githubusercontent.com/77685420/164815008-c1487e5e-58de-4708-9cf4-c034e4608e9d.png" width="760" height="480">
+<img src="https://user-images.githubusercontent.com/77685420/164814958-3ccc55fb-2333-4070-85fe-267ddcd9e842.png" width="560" height="360">
+<img src="https://user-images.githubusercontent.com/77685420/164815008-c1487e5e-58de-4708-9cf4-c034e4608e9d.png" width="560" height="360">
 
 ### RNN
 
-<img src="https://user-images.githubusercontent.com/77685420/164815055-4556d051-ceed-4fc6-807f-b4dd3070d11c.png" width="760" height="480">
-<img src="https://user-images.githubusercontent.com/77685420/164815066-67737273-6b39-4cad-afbd-55a3725a92d5.png" width="760" height="480">
+<img src="https://user-images.githubusercontent.com/77685420/164815055-4556d051-ceed-4fc6-807f-b4dd3070d11c.png" width="560" height="360">
+<img src="https://user-images.githubusercontent.com/77685420/164815066-67737273-6b39-4cad-afbd-55a3725a92d5.png" width="560" height="360">
 
 На графиках видно, что сеть не смогла обучиться, предположительно из-зи затухания градиента.
 
