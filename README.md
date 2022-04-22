@@ -11,6 +11,6 @@
 
 ### CNN
 
-![image](https://user-images.githubusercontent.com/77685420/164813999-ac0e9282-9a68-4ca5-a101-8d9d0d880818.png width="500" height="790")
+<img src="https://user-images.githubusercontent.com/77685420/164813999-ac0e9282-9a68-4ca5-a101-8d9d0d880818.png" width="500" height="790">
 ![image](https://user-images.githubusercontent.com/77685420/164814015-544dd15b-4f88-4c72-8b12-082bf9dff875.png)
 
